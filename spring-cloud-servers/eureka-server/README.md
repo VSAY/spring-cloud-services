@@ -12,6 +12,8 @@ docker build -t eureka-server:latest .
 ```
 Refer Dockerfile for more info 
 
+Note: Pre-build images are available on dockerhub look for *vsay/eureka-server:latest*
+
 
 ## Docker Compose run 
 
